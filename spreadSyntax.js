@@ -8,3 +8,5 @@ function sum(x, y, z) {
   
   console.log(sum(...numbers));
   // expected output: 6
+
+//   ES6's spread syntax is very useful when coding in a functional paradigm as we can easily create copies of arrays or objects without resorting to Object.create, slice, or a library function.
