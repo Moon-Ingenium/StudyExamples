@@ -4,4 +4,4 @@ const promiseA = new Promise( (resolutionFunc,rejectionFunc) => {
     resolutionFunc(777);
 });
 promiseA.then( (val) => console.log("asynchronous logging has val:",val) );
-console.log("immediate logging");
+console.log("immediate logging"); // open the console to see the magik
