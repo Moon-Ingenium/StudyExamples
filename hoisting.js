@@ -16,3 +16,4 @@ function example(){
 
 carName = "Volvo";
 const carName; // This will result in a syntax error and not run
+
