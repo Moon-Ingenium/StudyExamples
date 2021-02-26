@@ -10,10 +10,11 @@ function example(){
 
 function example2(){ 
     x = 5;
-    document.getElementById("demo").innerHTML = x;
+    document.getElementById("demo2").innerHTML = x;
     var x; // x can be created after it's use;
 }
 example();
+example2();
 // carName = "Volvo";
 // const carName; // This will result in a syntax error and not run
 

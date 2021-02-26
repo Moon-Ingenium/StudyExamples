@@ -7,6 +7,7 @@ This Repo is designed to visually depic examples of specific Javascript terms fo
 * Open the file name that matches a Javascript term to study.
 * Read the comment to learn its definition.
 * Below the definition, an example function will be listed to visually explain the term.
+* Use node filename.js to run examples or refer to the deployed link.
 * Happy Studying!
 
 ## Links
